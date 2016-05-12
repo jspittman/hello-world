@@ -1,10 +1,5 @@
-/*#include <stdio.h>
+// Created from The C Programming Language Book, 2nd Edition
 
-int main()
-  {
-    printf("Hello, World, for the second time\n\c");
-  }
-*/
 
 #include <stdio.h>
 
